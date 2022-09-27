@@ -1,0 +1,14 @@
+{
+  "text": "Der „schnelle” braune Fuchs springt über den faulen Hund. Le renard brun «rapide» saute par-dessus le chien paresseux. La volpe marrone rapida salta sopra il cane pigro. El zorro marrón rápido salta sobre el perro perezoso. A raposa marrom rápida salta sobre o cão preguiçoso.",
+  "vendors": {
+    "tesseract": {
+      "lang": "script/Latin"
+    },
+    "easyocr": {
+      "lang": "la"
+    },
+    "ocrspace": {
+      "lang": "eng"
+    }
+  }
+}

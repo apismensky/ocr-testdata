@@ -1,0 +1,14 @@
+{
+  "text": "ಬ್ಯಾಂಕ್ ಆಫ್ ಬರೋಡೆ",
+  "vendors": {
+    "tesseract": {
+      "lang": "kan"
+    },
+    "easyocr": {
+      "lang": "kn"
+    },
+    "ocrspace": {
+      "lang": "kan"
+    }
+  }
+}

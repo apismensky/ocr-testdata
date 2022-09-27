@@ -1,0 +1,14 @@
+{
+  "text":"ದಿ ಗಿಫ್ಟ್ ಕಿಯೋಸ್ಕ್",
+  "vendors": {
+    "tesseract": {
+      "lang": "kan"
+    },
+    "easyocr": {
+      "lang": "kn"
+    },
+    "ocrspace": {
+      "lang": "kan"
+    }
+  }
+}

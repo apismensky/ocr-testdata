@@ -1,0 +1,14 @@
+{
+  "text": "야-호!! 스낵코너 신선한 고급재료 482-3955 즉석 김밥 전문점",
+  "vendors": {
+    "tesseract": {
+      "lang": "script/Hangul"
+    },
+    "easyocr": {
+      "lang": "ko"
+    },
+    "ocrspace": {
+      "lang": "kor"
+    }
+  }
+}

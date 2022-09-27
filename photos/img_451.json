@@ -1,0 +1,14 @@
+{
+	"text": "책비디오 현비디오1층1",
+	"vendors": {
+		"tesseract": {
+			"lang": "script/Hangul"
+		},
+		"easyocr": {
+			"lang": "ko"
+		},
+		"ocrspace": {
+			"lang": "kor"
+		}
+	}
+}

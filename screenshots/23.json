@@ -1,0 +1,11 @@
+{
+  "text": "Kelly Salerno kelly.salerno@basf. com Greater New York City Area Sr. Talent Acquisition Specialist at BASF Sr. Recruitment Specialist at BASF",
+  "vendors": {
+    "tesseract": {
+      "lang": "script/Latin"
+    },
+    "easyocr": {
+      "lang": "la"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "text": "6.66 GB",
+  "vendors": {
+    "tesseract": {
+      "lang": "script/Latin"
+    },
+    "easyocr": {
+      "lang": "la"
+    }
+  }
+}
+

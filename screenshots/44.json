@@ -1,0 +1,11 @@
+{
+  "text": "187.32.77.65 (BR).",
+  "vendors": {
+    "tesseract": {
+      "lang": "script/Latin"
+    },
+    "easyocr": {
+      "lang": "la"
+    }
+  }
+}

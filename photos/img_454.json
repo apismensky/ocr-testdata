@@ -1,0 +1,14 @@
+{
+  "text": "ಎಚ್ ಎಸ್ ಬಿ ಸಿ",
+  "vendors": {
+    "tesseract": {
+      "lang": "kan"
+    },
+    "easyocr": {
+      "lang": "kn"
+    },
+    "ocrspace": {
+      "lang": "kan"
+    }
+  }
+}

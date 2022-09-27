@@ -1,0 +1,11 @@
+{
+  "text": "[Ninja] Brooke Yuki [Genin]> Ty ty Chuunins / Both sides ready? Yuki1 loaded: Paste it with //paste Pasted relative to you. Undo with //undo [Donator] Shiru Arashi [2-Tails] > Zetsu [Ninja] Mons Ziemia [Genin] > I wanted to win the Exams for Zetou !",
+  "vendors": {
+    "tesseract": {
+      "lang": "script/Latin"
+    },
+    "easyocr": {
+      "lang": "la"
+    }
+  }
+}

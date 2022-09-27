@@ -1,0 +1,14 @@
+{
+  "text": "Aliança inimiga Lucro de guerra em madeira Lucro de guerra em ferro Operações",
+  "vendors": {
+    "tesseract": {
+      "lang": "script/Latin"
+    },
+    "easyocr": {
+      "lang": "la"
+    },
+    "ocrspace": {
+      "lang": "spa"
+    }
+  }
+}

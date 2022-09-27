@@ -1,0 +1,14 @@
+{
+  "text": "ನೀರು",
+  "vendors": {
+    "tesseract": {
+      "lang": "kan"
+    },
+    "easyocr": {
+      "lang": "kn"
+    },
+    "ocrspace": {
+      "lang": "kan"
+    }
+  }
+}

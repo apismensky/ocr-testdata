@@ -1,0 +1,14 @@
+{
+  "text": "ಇಟ್ಸಿ ಬಿಟ್ಸಿ Itsy Bitsy",
+  "vendors": {
+    "tesseract": {
+      "lang": "eng+kan"
+    },
+    "easyocr": {
+      "lang": "en kn"
+    },
+    "ocrspace": {
+      "lang": "kan"
+    }
+  }
+}

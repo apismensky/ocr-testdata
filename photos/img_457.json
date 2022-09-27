@@ -1,0 +1,15 @@
+{
+  "text": "ದಯವಿಟ್ಟು ಗೇಟಿನ ಮುಂದೆ ನಿಲುಗಡೆ ನಿಷೇದಿಸಲಾಗಿದೆ PLEASE DO NOT PARK IN FRONT OF THE GATE",
+  "vendors": {
+    "tesseract": {
+      "lang": "kan+eng"
+    },
+    "easyocr": {
+      "lang": "kn en"
+    },
+    "ocrspace": {
+      "lang": "kan"
+    }
+  }
+}
+

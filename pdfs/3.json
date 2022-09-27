@@ -1,0 +1,8 @@
+{
+  "text": "Last line should be Mass spectrometric instead of Mass spectroscopic.",
+  "vendors": {
+    "tesseract": {
+      "lang": "eng"
+    }
+  }
+}

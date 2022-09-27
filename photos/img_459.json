@@ -1,0 +1,15 @@
+{
+  "text": "和路雪",
+  "vendors": {
+    "tesseract": {
+      "lang": "chi_tra"
+    },
+    "easyocr": {
+      "lang": "ch_tra"
+    },
+    "ocrspace": {
+      "lang": "cht"
+    }
+  }
+}
+

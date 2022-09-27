@@ -1,0 +1,11 @@
+{
+  "text": "Dear James Thanks for your Army application. We'll send you an email in the next two weeks with some medical questions for you to answer, so please look out for it. If you don't receive it within two weeks check your spam folder. You will not receive this if you have previously served. Your reference number is 15066151. Please make a note of it as it will make things easier if you need to get in touch with us about your application. If we contact you by telephone, please note that our calls will come from a 'withheld number'. Get ready for selection Fitness is a big part of Army life.",
+  "vendors": {
+    "tesseract": {
+      "lang": "script/Latin"
+    },
+    "easyocr": {
+      "lang": "la"
+    }
+  }
+}
